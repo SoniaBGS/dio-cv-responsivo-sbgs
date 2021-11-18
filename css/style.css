@@ -23,7 +23,7 @@ main {
 }
 
 aside {
-  background:  rgb(240, 235, 169);
+  background:  rgb(237, 233, 162);
   padding: 50px 0 16px;
   width: 280px;
 }
@@ -115,7 +115,7 @@ aside {
 }
 
 section {
-  background: rgb(252, 250, 230);
+  background: rgb(248, 247, 231);
   padding: 50px 32px 0;
   width: calc(100% - 280px);
 }
