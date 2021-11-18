@@ -1,4 +1,4 @@
-# CV Responsivo, Mentoria  DIO - Trabalhando com responsividade na prática, com o Professor Leonardo Antoio de Deus.:page_with_curl:
+# CV Responsivo, Mentoria  DIO - Trabalhando com responsividade na prática, com o Professor Leonardo Antonio de Deus.:page_with_curl:
 
 
 Esse repositório foi criado como exercício prático no acompanhamento da Live/Mentoria com O Professor "Leo" no Bootcamp Impulso React Web Developer da Digital Innovation One.
