@@ -4,7 +4,7 @@ Esse repositório foi criado pelo Professor "Leo" para a Live do Bootcamp Impuls
 
 Um guia com algumas alterações para acolher minhas experiências como aprendiz. Também mantive as ferramentas sugeridas e utilizadas na live-mentoria.
 
-<img src="./img/readme-bootcamp-image.png" alt="AnVIL Image" title="Bootcamp Impulso React Web Developer" style="zoom:50%;" />
+<img src="/img/CR.jpg" alt="AnVIL Image" title="Bootcamp Impulso React Web Developer" style="zoom:50%;" />
 
 ---
 
