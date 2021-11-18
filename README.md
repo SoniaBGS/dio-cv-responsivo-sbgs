@@ -10,7 +10,7 @@ Um guia com algumas alterações para acolher minhas experiências como aprendiz
 <img src="/img/CR.jpg" alt="AnVIL Image" title="Bootcamp Impulso React Web Developer" style="zoom:50%;" />
 
 
-
+* Link para CV de SoniaBGS: * http://127.0.0.1:5500/index.html
 ---
 
 # Ferramentas utilizadas
